@@ -1,9 +1,9 @@
-# lakesh.github.io
+# Lakesh Kumar Suryadevara
 My Portfolio
 # data science
 
-### work experience
+# work experience
 
-### projects
+# projects
 
-### skills  
+# skills  
